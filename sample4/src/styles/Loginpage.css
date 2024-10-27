@@ -1,0 +1,94 @@
+/* Basic reset */
+* 
+
+body {
+  justify-content: center;
+  align-items: center;
+  background: url(https://www.sunrate.com/wp-content/uploads/2023/04/sub_banner6.png) no-repeat center center fixed;
+  background-size: 1600px;
+}
+
+/* Container styling */
+.login-container {
+  font-family: Arial, sans-serif;
+  color: #333;
+  max-height: auto;
+  max-width: 400px;
+  padding: 20px;
+  margin-left: 10%;
+  justify-content: center;
+  margin-top: 10%;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.login-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.error-message {
+  color: red;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Forms */
+.login-form,
+.forgot-password-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+/* Buttons */
+.submit-button,
+.forgot-password-button,
+.back-to-login-button {
+  padding: 20px;
+  border: none;
+  border-radius: 4px;
+  color: red;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.submit-button {
+  background-color: #007bff;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+.forgot-password-button {
+  background-color: #17e636;
+}
+
+.forgot-password-button:hover {
+  background-color: #e31497;
+}
+
+.back-to-login-button {
+  background-color: #1081e5;
+}
+
+.back-to-login-button:hover {
+  background-color:red;
+}

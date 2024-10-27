@@ -1,0 +1,254 @@
+{
+  "item": [
+    {
+      "id": "1",
+      "name": "iQOO Neo9 Pro 5G",
+      "price": 36998,
+      "image": "https://m.media-amazon.com/images/I/41m-C1HHkIL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "2",
+      "name": "iQOO Z9s Pro 5G",
+      "price": 24999,
+      "image": "https://m.media-amazon.com/images/I/41xoCCQJGyL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S24",
+      "price": 98456,
+      "image": "https://m.media-amazon.com/images/I/31em1ruHGbL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy A35",
+      "price": 30999,
+      "image": "https://m.media-amazon.com/images/I/41-52WYhiwL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "5",
+      "name": "Samsung S24 Ultra",
+      "price": 109390,
+      "image": "https://m.media-amazon.com/images/I/71DoeQ838GL._AC_UY327_QL65_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy Z Fold6",
+      "price": 164999,
+      "image": "https://m.media-amazon.com/images/I/61AXMjkohIL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Mobile"
+    },
+    {
+      "id": "7",
+      "name": "Sony BRAVIA 3 Series 189 cm (75 inches)",
+      "price": 149990,
+      "image": "https://m.media-amazon.com/images/I/81h-r-3hioL._SX522_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "22",
+      "name": "Acer 164 cm (65 inches) L Series 4K Ultra HD Smart",
+      "price": 47999,
+      "image": "https://m.media-amazon.com/images/I/71bdBtNiq+L._SX522_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "21",
+      "name": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD",
+      "price": 78990,
+      "image": "https://m.media-amazon.com/images/I/81zPuf-0ETL._SX679_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "8",
+      "name": "Sony Bravia 210 cm (83 inches)",
+      "price": 598490,
+      "image": "https://m.media-amazon.com/images/I/51cuGJ+IyCL._SX300_SY300_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "9",
+      "name": "LG 164 cm (65 inches) OLED TV",
+      "price": 169990,
+      "image": "https://m.media-amazon.com/images/I/81s0JxBkzRL._SX522_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "10",
+      "name": "Samsung 214 cm (85 inches) 8K TV",
+      "price": 1349990,
+      "image": "https://m.media-amazon.com/images/I/91RMUYY13VS._SX522_.jpg",
+      "quantity": 0,
+      "category": "TV"
+    },
+    {
+      "id": "11",
+      "name": "Apple Watch Series 9",
+      "price": 74029,
+      "image": "https://m.media-amazon.com/images/I/81SO7IF6V8L._SX679_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "12",
+      "name": "Apple Watch SE (2nd Gen)",
+      "price": 27999,
+      "image": "https://m.media-amazon.com/images/I/61rTufzD1zL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "13",
+      "name": "Samsung Galaxy Watch 7",
+      "price": 28549,
+      "image": "https://m.media-amazon.com/images/I/4102vd6SbXL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "14",
+      "name": "Apple Watch Ultra 2",
+      "price": 89900,
+      "image": "https://m.media-amazon.com/images/I/81wUJMFg8vL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "24",
+      "name": "OLEVS Men's Business Watch Gold Blue",
+      "price": 3040,
+      "image": "https://m.media-amazon.com/images/I/61jWVri+4jL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "15",
+      "name": "ASIAN Mens TARZAN-11 Casual Shoes",
+      "price": 749,
+      "image": "https://m.media-amazon.com/images/I/71cflgAolqL._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "25",
+      "name": "Matrix Antique 2.0 Day & Date Softest",
+      "price": 289,
+      "image": "https://m.media-amazon.com/images/I/711NXCmUfbL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Watch"
+    },
+    {
+      "id": "16",
+      "name": "ASIAN Mens Wonder Sports Running",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/41mWz2aRrTL._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "17",
+      "name": "Red Tape Casual Sneaker Shoes",
+      "price": 1769,
+      "image": "https://m.media-amazon.com/images/I/61qXdWV980L._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "18",
+      "name": "ASIAN Mens White Casual Sneakers",
+      "price": 659,
+      "image": "https://m.media-amazon.com/images/I/71vMFWLljWL._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "19",
+      "name": "ATHCO Memory Foam Comfort Shoes",
+      "price": 749,
+      "image": "https://m.media-amazon.com/images/I/71SatK+GAXL._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "20",
+      "name": "AVANT Mens Boat Running Shoes",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61fPbECHfwL._SY695_.jpg",
+      "quantity": 0,
+      "category": "Shoe"
+    },
+    {
+      "id": "26",
+      "name": "Lenovo IdeaPad Slim 1 AMD Ryzen 5 5500U 15.6 HD Thin",
+      "price": 369990,
+      "image": "https://m.media-amazon.com/images/I/71xHNSCyRsL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    },
+    {
+      "id": "27",
+      "name": "HP 15 Core i5 13th Gen (16GB RAM/512GB SSD/FHD/15.6",
+      "price": 56990,
+      "image": "https://m.media-amazon.com/images/I/61v1dQcx1HL._SX679_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    },
+    {
+      "id": "28",
+      "name": "Dell {Smartchoice} G15-5530 Core i5-13450HX",
+      "price": 69990,
+      "image": "https://m.media-amazon.com/images/I/41Kjoa5dLhL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    },
+    {
+      "id": "29",
+      "name": "ASUS TUF Gaming A15, Ryzen 7 7435HS, 15.6-inch (39.62 cm) FHD",
+      "price": 60990,
+      "image": "https://m.media-amazon.com/images/I/41Aw8+krn+L._SY300_SX300_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    },
+    {
+      "id": "30",
+      "name": "HP Victus Gaming Laptop,Windows 11 Home",
+      "price": 60990,
+      "image": "https://m.media-amazon.com/images/I/41NwmRIOdYL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    },
+    {
+      "id": "31",
+      "name": "Apple 2024 MacBook Air 15″ Laptop with M3 chip",
+      "price": 139000,
+      "image": "https://m.media-amazon.com/images/I/41PlpJ2I5bL._SY445_SX342_QL70_FMwebp_.jpg",
+      "quantity": 0,
+      "category": "Laptop"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "name": "iQOO Z9s Pro 5G",
+      "price": 24999,
+      "image": "https://m.media-amazon.com/images/I/41xoCCQJGyL._SX300_SY300_QL70_FMwebp_.jpg",
+      "quantity": 2,
+      "category": "Mobile"
+    }
+  ]
+}

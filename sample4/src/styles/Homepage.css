@@ -1,0 +1,249 @@
+General Container
+.homepage-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #0b0101;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://example.com/your-background-image.jpg');
+}
+
+/* Header Styles */
+.homepage-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(95, 7, 246, 0.927);
+  color: #fff;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(32, 11, 226, 0.829);
+}
+
+/* Header Content Styles */
+.header-content {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 70px;
+  height: 60px;
+  border-radius: 90%;
+  margin-right: 15px;
+  object-fit: cover;
+}
+
+.homepage-title {
+  margin: 0;
+  font-size: 1.8em;
+}
+
+/* Search Bar Container */
+.search-bar-container {
+  flex: 1; /* Takes up remaining space */
+  display: flex;
+  border: 1px solid #ddd;
+  justify-content: center; /* Center the search bar horizontally */
+  margin: 0 20px; /* Space on left and right */
+}
+
+.search-bar {
+  width: 100%;
+  max-width: 400px; /* Adjust the width as needed */
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+/* Navigation Styles */
+.homepage-nav {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 11px 21px;
+  margin: 0 5px;
+  font-weight: 600;
+  border-radius: 25px;
+  background-color: #007bff;
+  transition: background-color 0.3s, transform 0.3s;
+  margin-top: 4px;
+}
+
+.signup-button {
+  background-color: #28a745;
+}
+
+.nav-link:hover, .signup-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+/* Main Section Styles */
+.homepage-main {
+  padding: 20px;
+  background-color: #f4f3f3;
+}
+
+.homepage-products {
+  padding: 20px;
+}
+
+/* Product List */
+.product-list {
+  display: flex;
+  flex-wrap: wrap; /* Change to wrap for better responsiveness */
+  gap: 20px;
+}
+
+/* Product Item */
+.product-item {
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), rgba(255, 255, 255, 0.9);
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  width: 240px; /* Ensure even width */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.product-item:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Product Image */
+
+/* Footer Styles */
+.homepage-footer {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.contact-info a {
+  color: #28a745;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+/* Search Section Styles */
+.homepage-search {
+  display: flex;
+  justify-content: center; /* Center the search bar */
+  padding: 20px;
+  background-color: #f5f5f5; /* Light background for the search area */
+  border: 1px solid #ddd;
+}
+
+.search-form {
+  display: flex;
+  width: 100%;
+  max-width: 800px; /* Limit the max width of the search bar */
+}
+
+.search-input {
+  flex: 1; /* Allow input to take up remaining space */
+  padding: 10px;
+  border: 2px solid #080505;
+  border-radius: 5px 0 0 5px;
+  font-size: 16px;
+}
+
+.search-button {
+  padding: 10px 20px;
+  border-left: none;
+  background-color: #007bff;
+  color: #f6f1f1;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0 5px 5px 0;
+  transition: background-color 0.3s;
+}
+
+.search-button:hover {
+  background-color: #0056b3;
+}
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.product-item {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  width: 200px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product-item img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.product-name {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.product-price {
+  color: #007BFF;
+  font-size: 18px;
+}
+.but {
+  padding: 10px;
+  border-color: rgb(11, 6, 49);
+  background-color: white;
+  border-radius: 20px;
+  width: 100%;
+  cursor: pointer;
+}
+
+.bu {
+  background-color: rgb(11, 6, 49);
+  color: white;
+  padding: 5px;
+  border-radius: 20px;
+  width: 100%;
+  border-color: white;
+  cursor: pointer;
+  position: relative;
+  transition: 0.5s;
+}
+
+.spam {
+  background-color: rgb(11, 6, 49);
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.but:hover {
+  color: white;
+  background-color: rgb(6, 233, 51);
+  width: 100%;
+  left: 100;
+  bottom: 100;
+}
